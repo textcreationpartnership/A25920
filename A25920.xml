@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles exhibited against Benjamin Spencer, minister of S. Thomas Parish in Southwarke, in the right honourable and high Court of Parliament for which his living was sequestred together with a charge grounded thereupon, and his answer thereunto, with his reasons of printing the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25920</idno>
+            <idno type="STC">Wing A3819</idno>
+            <idno type="STC">ESTC R10474</idno>
+            <idno type="EEBO-CITATION">11675280</idno>
+            <idno type="OCLC">ocm 11675280</idno>
+            <idno type="VID">48092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 8:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles exhibited against Benjamin Spencer, minister of S. Thomas Parish in Southwarke, in the right honourable and high Court of Parliament for which his living was sequestred together with a charge grounded thereupon, and his answer thereunto, with his reasons of printing the same.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spencer, Benjamin, b. 1595?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:48092:1"/>
+            <pb n="1" facs="tcp:48092:1" rendition="simple:additions"/>
+            <head>Articles exhibited againſt <hi>Benjamin Spencer,</hi> Miniſter of S. <hi>Thomas</hi> Pariſh in <hi>Southwarke,</hi> in the right Honourable and high Court of Parliament, for which his living was ſequeſtred. Together with a charge groun<g ref="char:EOLhyphen"/>ded thereupon, and his anſwer thereunto. With his reaſons of printing the ſame.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hoever thou art, for Gods love let me intreat thee to reſerve a good opinion of this my action. For I proteſt in the ſight of God I preſent not this ſheet to thee out of any vain glory, to vindicate my ſelfe from any aſperſions, nor out of malice to my ac<g ref="char:EOLhyphen"/>cuſers, to render them odious to the world, much leſſe out of any heart-burning againſt the ſentence of my judges, who proceed, <hi>Secundum allegata &amp; probata,</hi> according to alle<g ref="char:EOLhyphen"/>gation and proofe: but to ſhew how much one man may be miſ<g ref="char:EOLhyphen"/>conſtrued by another in the deliverance of his minde, and how free I am from Popiſh doctrine, or ſuch ill manners whereby to ſleight orders of Parliament, or to let fall any looſe ſpeeches in the Pulpit (of which three things the Articles conſiſt) however I may be miſtaken by men who come to heare me with prejudicate mindes.</p>
+            <p>And I hope you will not blame me for this, conſidering, the malignity of ſuch a ſcandall, doth not only like a dead flye cor<g ref="char:EOLhyphen"/>rupt the ointment of a good name (which I thank God till this time he hath honoured me withall, among all men who doe truly know me) but alſo is the greateſt blot that can be to my profeſſi<g ref="char:EOLhyphen"/>on, and a juſt hindrance of my preferment; and therefore I can doe no leſſe then print a few ſheets to ſatisfie my friends (but not to ſell) in this buſineſſe, becauſe I find my Articles read to many, but not my anſwers to them, by which my friends affections may be diverted from me as well as their mindes corrupted.</p>
+            <p>You are therefore to underſtand, that after I had anſwered one <hi>Iacksons</hi> a Scotch-mans Articles againſt me (before my Lord Ma<g ref="char:EOLhyphen"/>jor) of which I could never get a copie. I was in good hope to have been at reſt, when ſuddenly my name appeared in a black bill among 66 ſcandalous (it may be ſome will prove ſcandalized) miniſters. This bill made by whomſoever, I am ſure I was ne<g ref="char:EOLhyphen"/>ver called to a reckoning about it before any of thoſe Citizens who drew it up and preſented it to the Lord Major. The blow I
+<pb n="2" facs="tcp:48092:2" rendition="simple:additions"/>received by this browne bill almoſt ſtunned me, having no warn<g ref="char:EOLhyphen"/>ing to provide an Helmet.</p>
+            <p>The ground of this bill was the complaints of pariſhoners to ſome Citizens who were authorized by an order of Common Councell dated the ſecond day of December to inquire of all ma<g ref="char:EOLhyphen"/>lignant, ſcandalous, &amp; ſeditious Miniſters, whom I pray God bring to light, ſo that the Wolfe may be known for all his ſheepes-skin.</p>
+            <p>The next trouble I heard of was by one <hi>Quartermaine,</hi> who warned me before the Committee of examination, of which the right worſhipfull Sir <hi>Gilbert Garrat</hi> was the Chaire-man, to an<g ref="char:EOLhyphen"/>ſwer to 10 Articles alleadged againſt me.</p>
+            <div type="body_of_articles">
+               <head>The Articles were as followeth.</head>
+               <p>
+                  <hi>Inprim.</hi> THat Maſter <hi>Spencer</hi> wilfully refuſeth to give the Communion to thoſe that will not kneele at the Sacrament.</p>
+               <p n="2">2 The ſaid Mr. <hi>Spencer</hi> did publikely averre in his Sermon, that water in Baptiſme did abſolutely cleanſe away originall ſin.</p>
+               <p n="3">3 He did averre that the Church of <hi>Rome</hi> is the true Church and lacks nothing out qualification, and did not erre in any fun<g ref="char:EOLhyphen"/>damentall point, but in matter of circumſtance.</p>
+               <p n="4">4 Certaine honeſt then informing the ſaid Mr. <hi>Spencer,</hi> that his ſuperſtitious geſtures were, burthenſome to ſome good Chriſtian conſciences in his Congrogation, he thus replyed. Am I vile (a<g ref="char:EOLhyphen"/>buſing the words of the Prophet <hi>David</hi>) I will be more vile yet? And whether the railes be taken away or not, I will bow to the Table, yea I will dance about the Table; he alſo abuſeth all thoſe that ſtand neer, or lean upon the Communion Table, or lay their hats upon the Table in the time of prayer or ſermon.</p>
+               <p n="5">5 He hath uttered theſe words in the Pulpit, the times are evill and dangerous, for we may fear great judgements upon the land, becauſe we do not know whither to go for juſtice. And theſe words were ſpoken in the time of Parliament.</p>
+               <p n="6">6 In S. <hi>Mary Overies</hi> Church, he moſt baſely abuſed honeſt Miniſters in his Sermon: ſaying theſe Iack-dawes that former<g ref="char:EOLhyphen"/>ly durſt not ſhew their faces, now did appear every where. And where did they now ſhelter themſelves but under the eaves of the Parliament-houſe Conſider whether theſe two Articles do include a <hi>Scandalum Parlamenti,</hi> Or not.</p>
+               <p n="7">7 He not only preſumptuouſly neglects to pray for good Magi<g ref="char:EOLhyphen"/>ſtates ſuch as my Lord Major of London, as alſo not praying for the army that is gone forth for Religion, King and Parliament, which is too great an evidence of malignity, but alſo a preſump<g ref="char:EOLhyphen"/>tuous abuſer and ſcoffer of the Orders of Parliament.</p>
+               <pb n="3" facs="tcp:48092:2" rendition="simple:additions"/>
+               <p n="8">8 Inſtance; namely, one Sabbath day there came an order from the Parliament to be read in his Church for the reſtraining the ſu<g ref="char:EOLhyphen"/>perſtitious bowing at the name of Ieſus, in the reading where<g ref="char:EOLhyphen"/>of, the ſaid M. <hi>Spencer</hi> uſed theſe diſdainefull words. For any thing I know, this that I do read might have come from a Ballad-mon<g ref="char:EOLhyphen"/>ger, I know not which Ieſus is ſignified here, whether Ioſhuah, or Ieſus the ſon of <hi>Sirach,</hi> or leſus Chriſt.</p>
+               <p n="9">9 This was M. <hi>Spencers</hi> divinity in the Pulpit, that women now adayes were not ſo holy as the Virgin <hi>Mary</hi> was. For ſhe conceived the holy Ghoſt before ſhe conceived Chriſt, but women now took in men before they took in the holy Ghoſt and were coupled together by the tayles, as <hi>Sampſons</hi> Foxes were.</p>
+               <p n="10">10 That the ſaid M. <hi>Spencer,</hi> after he had publiſhed the Ordi<g ref="char:EOLhyphen"/>nance of Parliament for the reliefe of poor maimed ſouldiers, ſaid, that it may be the ſaid ſouldiers went out with a zealous intent, but it was a blinde zeale; or it may be out of malice and envie to be revenged of ſome of their enemies; or it may be to rob and ſteale, and ſo to inrich themſelves; but I hope the miſery they feele, and your charity, will make them deſire peace.</p>
+            </div>
+            <div type="answers">
+               <head>His Anſwers to theſe <hi>10</hi> Articles before the Committee.</head>
+               <p n="1">1 TO the firſt he anſwered thus. If he had refuſed any the Communion, as he remembred none; he did it not becauſe he thinks kneeling more neceſſary, but becauſe of the Sta<g ref="char:EOLhyphen"/>tute of uniformity, which bindeth him to obſerve it, which ſtatute for direction is bound with the Book of Common prayer.</p>
+               <p n="2">2 Vpon the ſecond Article the witneſſes diſagreed. His anſwer was, that being the plaintiffes did inſtance no next upon which he ſo preached, nor time when; he could not ſay what he preached: but his opinion was, that the outward ſigne without the thing ſignified was of no validity, and as it is expreſſed further in the 27 Article of our proteſtant doctrine publiſhed, and of late proteſted by himſelfe and others.</p>
+               <p>To the third he anſwered thus: I know not that ever I prea<g ref="char:EOLhyphen"/>ched any ſuch thing, nor doe they prove it by either place, time, or Text, but I hold the Papacy to bee Antichriſtian, and all that wittingly or willingly adhere thereunto. Neither doth the Do<g ref="char:EOLhyphen"/>ctrine of their Church order a man to heaven, and therefore I deteſt it as damnable, and hold with our Proteſtant Doctrine pub<g ref="char:EOLhyphen"/>liſhed in that poynt in the ſecond part of our Church Homily for Whitſontide. But I ſuppoſe the plaintiffes might be miſta<g ref="char:EOLhyphen"/>ken, when in clearing that poynt ſo much controverted about the Church of <hi>Romes</hi> being a true Church, it is like enough I ſaid it was thus to be underſtood, (namely) that ſhe had the outward
+<pb n="4" facs="tcp:48092:3" rendition="simple:additions"/>being and exiſtence of a true Church; but not the eſſence or eſſen<g ref="char:EOLhyphen"/>tiall properties of one. As a thiefe hath the true being of a man in a naturall ſenſe, but not the being of a true man in a morall ſence: So W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpes have true Combs, as well as Bees, but there is no ho<g ref="char:EOLhyphen"/>ney in them. So it is likely, that I might ſay the Church of Rome agreeth with the true Church in many fundamentalls, as in the Articles of the Creed, but overthroweth them by corrupt conſe<g ref="char:EOLhyphen"/>quences and ſuperſtructions, as when they allow Chriſt to bee the ſole Mediator of Redemption, but not of interceſſion, and in ſixty odde other ſeverall opinions they differ from the Refor<g ref="char:EOLhyphen"/>med Churches, and us Engliſh Proteſtants; in which I hope I ſhal never agree with them.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> To the fourth he anſwered thus: I remember no ſuch in forma<g ref="char:EOLhyphen"/>tion by honeſt men. But I acknowledge I have bowed my knees when I have come into the Church, but to no viſible thing, but unto that God by whoſe leave I tread in his Courts: And if I were accounted vile for that, it is like enough I might ſay, I would be more vile. But ſince I perceived by an Order from the Houſe of Peeres, bearing date ſixteenth of Ianuary, 1640. that ſuch ar<g ref="char:EOLhyphen"/>bitrary geſtures did give offence, and that no Ceremony what<g ref="char:EOLhyphen"/>ſoever ſhould be uſed, but thoſe nominated and allowed by Law, I have refrained it and be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aken my ſelfe to a more private way of devotion. And for abuſing any who ſtand about the Communion Table, I know not, except a faire reproofe for an unreverent carri<g ref="char:EOLhyphen"/>age be an abuſe of thoſe who ſet their Tailes where we ſet the Sa<g ref="char:EOLhyphen"/>crament when there is roome enough to ſit elſe-where.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> To the fiſt hee anſwered thus: Here is neither inſtance of time or Text,therefore I cannot call to mind what I ſaid. But I beleeve I might complaine of danger us times now in theſe lat<g ref="char:EOLhyphen"/>ter dayes of which the Apoſtle propheſied 2 <hi>Tim.</hi> 3.1. and might deplore the decay of juſtice among men both diſtributive &amp; com<g ref="char:EOLhyphen"/>mutative as the Prophets did, <hi>Pſal.</hi> 12.1. <hi>ler.</hi> 5.1. and yet not reflect on the Parliament, who have found much injuſtice among men themſelves, and puniſhed it.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> To the ſix he anſwered thus;here they inſtance in aſermon re<g ref="char:EOLhyphen"/>membred by many who can tel that the words which they miſcon<g ref="char:EOLhyphen"/>ſtrue were theſe (ſpoken unto the Miniſters then preſent at the vi<g ref="char:EOLhyphen"/>ſitation Sermon) Rebuke, exhort with all authority, as <hi>Tit.</hi> 2.15. You are commanded, and be not affrighted at thoſe Iack-Dawes, w<hi rend="sup">th</hi> with their noiſe firſt diſturb the <hi>Churches</hi> ſervice, &amp; then ſhel<g ref="char:EOLhyphen"/>ter themſelves under the Leads as many ſorts of men do, who hope in vaine to ſhroud themſelves under the eaves of the Parliaments favour, whoſe worthies though too much troubled with their tri<g ref="char:EOLhyphen"/>viall
+<pb n="5" facs="tcp:48092:3" rendition="simple:additions"/>complaints; yet I am confident they will maintaine what they have proteſted againſt all ſchiſmaticall perſons and malignant parties, that theſe were my words many can juſtifie that heard them, without prejudicate affection.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> To the ſeventh Article he anſwered: I pray for the King Queen, and Royall Progeny, and for all that are in authority. Indeed, I doe not name my Lord Major; nor is it uſuall ſo to doe, except at <hi>Panis</hi>-Croſſe or the like. Neither doe I name the Army, but I pray for all thoſe that fight for the truth, and the faith of the Go<g ref="char:EOLhyphen"/>ſpell and true Religion, which is no evidence of malignancy. Nor doe I, nor ever did ſcoffe at any Orders of Parliament, as ſhall ap<g ref="char:EOLhyphen"/>peare by my anſwer to the inſtance following.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> To this only inſtance of ſcoffing at Orders, which they produce, though the Article chargeth him in generall, he thus anſwered. One Lords day, ſuch an Order was brought to me as aforeſayd, of which he that brought it, could render no account but that it was bought of one that fold pamphlets about the ſtreets. I ſuſpended therfore the reading of it til I had enquired further; &amp; finding it to be the Parliaments order, I read it in the Church. And to excuſe my ſelfe, that I did not read it at firſt to ſome that were offended, I ſaid I durſt not read that at firſt, which hee that brought could not a<g ref="char:EOLhyphen"/>vouch to have received from any other authority than a Pamphlet ſeller, or a Ballad-monger. As for the name Ieſus I confeſſe I ſayd thus, that conſidering there were more named by that name in the Bible, as Ieſus the ſonne of <hi>Nun,</hi> Acts 7.45. and Ieſus ſon of <hi>Ioſe<g ref="char:EOLhyphen"/>dech,</hi> Zach. 3.1. and Ieſus the Ionne of Sarach, Eccleſ. 1. And for that many ignorant people have uſed the ſame geſture to each name alike, when they have beene read; and for that the name is not di<g ref="char:EOLhyphen"/>ſtinguiſhed in this order, <hi>(viz.)</hi> which Ieſus is meant as it is in the 18. Canon, which enjoyneth reverence at the reading of it, I will not be ſo bold to interpret the Parliaments mind therein, till it bee further expreſſed by themſelves: And I hope no charitable mind will take this for an abuſe or ſcoffe, but rather want of right apprehenſion of their mind.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> He thus anſwered the ninth Article: Here is neither Text nor time inſtanced in, nor can I remember all I ſayd: But I believe it is no bad Divinity to ſay the Virgin <hi>Mary</hi> conceived the Holy Ghoſt in her heart, before ſhe had Chriſt in her womb; becauſe ſhee was before both gracious and faithfull: And I conceive thoſe that marry meerely for luſt, without thoſe other holy ends of marriage, couple like beaſts, and may bee likened to <hi>Sampſons</hi> Foxes: The Prophet <hi>Ezekiel</hi> ſpeakes much broader,<note place="margin">Ezek. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> and yet is not to bee blamed; Lewd manners may have loud reproofes, ſo far as I know.</p>
+               <pb n="6" facs="tcp:48092:4" rendition="simple:additions"/>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> The tenth he anſwered thus, I finding ſome people ſcrupulous to contribute to that occaſion, ſaid thus: It is the end that maketh ac<g ref="char:EOLhyphen"/>tions good. Now whereas ſome object, that it may be ſome ſouldi<g ref="char:EOLhyphen"/>ers goe to war with divers ends, ſome with a good intent, ſome with a blind zeale, ſome to be revenged on their enemies, ſome in hope to enrich themſelves by ſpoyle; let not us judge their hearts, nor look upon their infirmities; but be their end what it will, let our end be to relieve their miſeries, and no doubt if you think they have erred in warre, the miſery they feel, and your charity they find will make them more addicted to peace.</p>
+               <p>You may perceive by theſe Anſwers, that I am much miſtaken in my preaching by theſe my accuſers, whom I blame not ſo much for thus accuſing me (though a little diſcourſe with me might have rectified all) if ſo be they be fully perſwaded that I ſpake as they have alleaged, but I fear there is ſome leaven of ill wil in it, which never ſpeaks wel; God be judge between us, to who<g ref="char:cmbAbbrStroke">̄</g> I refer my ſelf</p>
+               <p>After I had thus anſwered, I was diſmiſſed. Diverſe weekes after one <hi>Nicollſon</hi> got a warrant for me from the Committee for the ſafety of the Kingdome. A man who knew nothing of me except my face, as I did bis. By vertue of the warrant, I was kept under Cuſtody certaine dayes, but found no charge ap<g ref="char:EOLhyphen"/>peare there againſt me. But being in priſon a warrant was brought to me to appeare before the Lords to anſwer to a charge drawne up againſt me with al ſequeſtration of my living, which charge though it conſiſted of fewer Articles by three than before was al<g ref="char:EOLhyphen"/>leadged, namely the 5.2. and 7. yet it is no whit lighter, but doth in ſome words ſo much differ from the Articles, that mee thinkes my adverſaries themſelves ſhould conſider where they ſpoke trueſt, before the Committee, or before the Lords; they being witneſſes, both to the Articles and charge; and eſpecially one wo<g ref="char:EOLhyphen"/>man whoſe zeale againſt me was ſo ſmart, that ſhe bluſhed not to maintaine the ninth Article, farther than was alleadged therein; namely that I ſhould ſay worſe than <hi>(that women took<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in men)</hi> for ſhe added theſe words (Your Lordſhips know where) <hi>O frons, o facies.</hi> Marke the charge and compare it with the Articles, and you will finde that whatſoever Clerke drew it, he hath made his building too heavie for the foundation, <hi>viz.</hi> For the Articles upon which it is built.</p>
+            </div>
+            <div type="charge">
+               <head>The ſequeſtration and charge, <date>
+                     <hi>Martij</hi> 16. 1642.</date>
+               </head>
+               <p>WHereas <hi>Benjamin Spencer,</hi> Stipendary Curate of the <hi>Church of Saint Thomas Hoſpitall</hi> in <hi>Southwarke</hi> in the County of Surrey hath endeavoured in his preaching to corrupt his people and Auditors, partly with the leaven of Popiſh doctrin
+<pb n="7" facs="tcp:48092:4" rendition="simple:additions"/>preſſing upon them,<label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>3</label> 1. That the Church of Rome is a true Church, ſaving only in Circumſtances and not in fundamentalls. <label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>4</label> 2. And bowing to the Altar, ſaying, that if he were vile in that, he would be more vile yet, and whether the railes were taken a<g ref="char:EOLhyphen"/>way or not, hee would bow to the Table, and dance about it. <label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>9</label> 3. And partly by prophane doctrine that the Virgin <hi>Mary</hi> recei<g ref="char:EOLhyphen"/>ved the <hi>Holy Ghoſt</hi> before ſhe conceived Chriſt, but now wo<g ref="char:EOLhyphen"/>men tooke in men firſt and were coupled together like <hi>Samſons</hi> Foxes.<label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>5</label> 4. And hath expreſſed great Malignancie againſt the power and proceedings of Parliament, ſaying in Parliament times, that now men knew not whither to goe for juſtice. <label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>6</label> 5. And that Reverend Orthodox Miniſters, whom he tearmed Iack-Dawes, that formerly durſt not ſhew their faces, did now appeare and ſhroud themſelves under the Eves of the Parliament. 6.<label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>8</label> And reading in his Church the order of Parliament againſt bowing at the name of Ieſus, in contempt thereof ſaid openly, that for ought he knew, it might come from ſome Ballad-monger and that hee knew not what they meant whether Ieſus the Son of <hi>Sirach</hi> or <hi>Jeſus Chriſt,</hi> and that they that made it, were beſt able to expreſſe their owne meaning.<label type="milestone">
+                     <seg type="milestoneunit">Articl. </seg>10</label> 10. And that in his publiſh<g ref="char:EOLhyphen"/>ing of the Ordinance of Parliament, for the reliefe of maimed Souldiers, informed his Auditory that it may bee theſe Souldiers went out with a zealous intent, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t was a blind zeale, or they went out of malice or envie to be revenged, or it may bee to rob and ſteale. Which the Lords and Commons in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled taking into conſideration for the better ſupply of an able and godly Miniſter in the ſaid Church, and for the proviſion of fit maintenance for thoſe that ſhall officiate therein, doe Conſtitute and ordaine that <hi>Iohn Hardwicke, Ioſeph Collier, Iohn Humphry, Daniell Sowton, Thomas Bennet, Iohn Simes, Iohn Winengton, William Jackſon,</hi> or any three of them ſhall have power and au<g ref="char:EOLhyphen"/>thority, and are hereby required to ſequeſter all and ſingular ſti<g ref="char:EOLhyphen"/>pends and Allowances, Tythes, Rents, Fees or profits whatſoe<g ref="char:EOLhyphen"/>ver belonging to the Cure of the ſaid Church, or heretofore payed to the ſaid SPENCER, and to appoint Collectors for the gathering and receiving of them as they in their diſcretion ſhall thinke fit, and ſhall have power to pay the ſame unto <hi>Iohn Biſcoe</hi> a godly learned and Orthodoxe Divine who is hereby appointed and required to preach every Lords Day and to officiate as Curate and to take care for the diſcharge of the cure of the ſaid place in all the duties thereof untill further order ſhall be taken by both Houſes of Parliament. And if any ſhall refuſe to pay unto the ſaid ſequeſtrators, or any three of them, or to the collectors ap<g ref="char:EOLhyphen"/>pointed
+<pb n="8" facs="tcp:48092:5" rendition="simple:additions"/>by them any of the Rents, duties, or lawfull ſees acou<g ref="char:EOLhyphen"/>ſtomed to be payed upon information thereof by the ſequeſtrators or any three of them unto either Houſe of Parliament. The ſaid Lords and Commons do hereby declare they will proceed againſt ſuch refuſers according to their ſeverall offences and contempts.</p>
+               <p>I anſwered to the charge that firſt it differed much from the Ar<g ref="char:EOLhyphen"/>ticls that were laid againſt me; firſt in the number, for in the charg there were 3. wanting of the ten alleaged, namely the firſt which charged me for doing what the ſtatute of uniformity injoyned me. The ſecond which the witneſſes being then examined ſeve<g ref="char:EOLhyphen"/>rally did not agree upon. And the ſeventh which ſeemed ridi<g ref="char:EOLhyphen"/>culouſly to accuſe me for not praying for my L. Major. Secondly I ſaid the charge differed in many words from the Articles, as in that it chargeth me to endeavour to corrupt people with popiſh Doctrine, and yet there is in all but one Article of popiſh doctrine in the whole charge, which might be as well miſtaken, as not, by my hearers. Secondly, It chargeth me that I bowed to the Altar whereas there was never any in the Church, nor did the Table ſtand Altar-wiſe. Indeed it was railed in by Mr. Lynne one of my accuſers, without command from any authority, ſave himſelfe that I know of. Thirdly, It makes theſe words <hi>(that now in time of Parliament men knew not whither to goe for Iuſtice) a</hi> part of the Article which in the Article it ſelfe is made only an in<g ref="char:EOLhyphen"/>ſinuation of the accuſer and therefore the witneſſes could not as I ſuppoſe under favour maintaine rightly both the Articles and the charge. However they ſwearing, the Court enclined the rather to their teſtimony, for an oath muſt bee the end of controverſie: Let the accuſers look to it, the Court is free. I was committed to the fleete for a while, for contempt, where I petitioning for main<g ref="char:EOLhyphen"/>taining of my charge, a Wife and many Children, was by the Lords granted thirtie pounds per annum to bee reſumed in the hands of the Governours of Saint <hi>Thomas</hi> Hoſpitall from the ſe<g ref="char:EOLhyphen"/>queſtrators, &amp; to be payd to me or my aſſignes, as formerly it had, I was afterward upon petition releaſed alſo from impriſonment.</p>
+               <p>But all this ſuffering could not quiet the ſpleene of mine ad<g ref="char:EOLhyphen"/>verſaries. For they would faine reſtraine the Governours ſo, that they might not pay me my allowance of thirtie pounds aforeſaid, by reaſon whereof I and my family ſhould be forced to live upon almes while one eates our bread, who can neither well deſire it, and worſe deſerve it. God forgive mine enemies, open their blind eyes and ſoften their hard hearts, that repenting, they may eſcape the wrath to come, through Ieſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48092:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
